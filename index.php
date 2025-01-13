@@ -6,6 +6,6 @@
     <title>PHP - Hello, Climbers in the world!</title>
 </head>
 <body>
-        <h1><?php echo 'Hello, World!'; ?></h1>
+        <h1><?php echo 'Climbers in the world!'; ?></h1>
 </body>
 </html>
